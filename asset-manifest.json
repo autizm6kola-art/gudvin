@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gudvin/static/css/main.af09db6f.css",
+    "main.js": "/gudvin/static/js/main.2fb14d7f.js",
+    "static/js/453.d37bcb50.chunk.js": "/gudvin/static/js/453.d37bcb50.chunk.js",
+    "index.html": "/gudvin/index.html",
+    "main.af09db6f.css.map": "/gudvin/static/css/main.af09db6f.css.map",
+    "main.2fb14d7f.js.map": "/gudvin/static/js/main.2fb14d7f.js.map",
+    "453.d37bcb50.chunk.js.map": "/gudvin/static/js/453.d37bcb50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af09db6f.css",
+    "static/js/main.2fb14d7f.js"
+  ]
+}
